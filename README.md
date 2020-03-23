@@ -1,4 +1,4 @@
-> ### 门面模式
+> # 门面模式
 
 在config\app.php中的aliases中添加``'别名'=>'门面类'``的元素,并在bootstrap中添加对应的``provider``
 ```php
